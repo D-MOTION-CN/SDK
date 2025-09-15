@@ -1,10 +1,7 @@
 [![Star_Banner](Banner.png)](https://github.com/D-MOTION-CN/SDK)
 
-<center> 
-<span style="font-size: 24px;  font-family: '微软雅黑';font-weight: bold">
-        Darren Product Manual & Code Examples & Development Tools
-</span>
-</center> 
+## Darren Product Manual & Code Examples & Development Tools
+
 
 - **Docs**
   - **Communication Interface Manual**
