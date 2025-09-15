@@ -1,0 +1,13 @@
+{
+  "SN": "9999999",
+  "MaxPitch": 20.0,
+  "MinPitch": -20.0,
+  "MaxRoll": 20.0,
+  "MaxYaw": 20.0,
+  "MaxSway": 200.0,
+  "MaxSurge": 200.0,
+  "MinSurge": -200.0,
+  "MaxHeave": 200.0,
+  "MaxAngVel": 50.0,
+  "MaxLinearVel": 300.0
+}
