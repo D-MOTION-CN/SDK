@@ -1,4 +1,4 @@
-[![Star_Banner@3x](logo.ico)](https://github.com/D-MOTION-CN/SDK)
+[![Star_Banner](Banner.png)](https://github.com/D-MOTION-CN/SDK)
 
 <center> 
 <span style="font-size: 24px;  font-family: '微软雅黑';font-weight: bold">
